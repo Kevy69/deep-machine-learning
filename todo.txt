@@ -1,5 +1,4 @@
 INFO
-
     1. Recordings/lessons - teams
     2. all material - iths distance
     3. misc - discord
@@ -7,5 +6,11 @@ INFO
 
 
 TODO:
-    1. Understand xor_manual.ipynb
-    
+    Understand xor_tf.ipynb
+    understand Gradient Descent Simulation Exercise.ipynb
+    go through all slides
+    general theory
+
+
+long term TODO:
+    1. Understand xor_manual.ipynb even better
