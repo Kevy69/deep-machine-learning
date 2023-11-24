@@ -1,0 +1,11 @@
+INFO
+
+    1. Recordings/lessons - teams
+    2. all material - iths distance
+    3. misc - discord
+
+
+
+TODO:
+    1. Understand xor_manual.ipynb
+    
