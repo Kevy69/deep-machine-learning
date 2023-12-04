@@ -8,9 +8,4 @@ INFO
 TODO:
     Understand xor_tf.ipynb
     understand Gradient Descent Simulation Exercise.ipynb
-    go through all slides
-    general theory
-
-
-long term TODO:
-    1. Understand xor_manual.ipynb even better
+    understand hyperparameter_tuning.ipynb
