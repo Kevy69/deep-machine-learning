@@ -9,3 +9,4 @@ TODO:
     Understand xor_tf.ipynb
     understand Gradient Descent Simulation Exercise.ipynb
     understand hyperparameter_tuning.ipynb
+    understand RNN, LSTM GRU
