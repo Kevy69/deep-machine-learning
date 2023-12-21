@@ -10,3 +10,8 @@ TODO:
     understand Gradient Descent Simulation Exercise.ipynb
     understand hyperparameter_tuning.ipynb
     understand RNN, LSTM GRU
+
+    before break is over: 
+        understand Q-learning
+        understand deep Q-learning
+        project?
