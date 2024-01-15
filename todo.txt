@@ -11,7 +11,8 @@ TODO:
     understand hyperparameter_tuning.ipynb
     understand RNN, LSTM GRU
 
-    before break is over: 
+    before/right after break is over:
+
         understand Q-learning
         understand deep Q-learning
-        project?
+        ask about project
